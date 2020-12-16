@@ -4,6 +4,6 @@ I am a fullstack software engineer working for Uncanny Studio. Some technologies
 
 **Hit me up** (especially you employers!)
 
-site: https://contact.canarado.xyz
+site: https://canarado.xyz
 
 email: dev.canarado@gmail.com
