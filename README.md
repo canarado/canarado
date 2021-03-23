@@ -1,8 +1,6 @@
-### Hi, I'm Adam.
+### Hi, I am Adam.
 
-I am a fullstack software engineer working for Uncanny Studio. Some technologies I use are Node.js(Javascript), Rust, and SQL.
-
-**Hit me up** (especially you employers!)
+I am a fullstack software engineer currently overseeing technical operations at Canabaer. Technologies I use are Node.js(Javascript), Rust, and SQL.
 
 site: https://canarado.xyz
 
