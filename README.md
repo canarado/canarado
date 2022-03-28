@@ -1,6 +1,6 @@
 ### Hi, I am Adam.
 
-I am a fullstack software engineer currently overseeing technical operations at Canabaer. Technologies I use are Node.js(Javascript), Rust, and SQL.
+I am a fullstack software engineer currently looking for work in the backend space. Technologies I like to work with are Javascript/Node.js and Rust.
 
 site: https://canarado.xyz
 
